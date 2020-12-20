@@ -1,5 +1,5 @@
 # Help Command
-https://i.imgur.com/5kw61zP.png
+![Help command](https://i.imgur.com/5kw61zP.png)
 
 # Utility Command
-https://i.imgur.com/AwDC6hi.png
+![Utility command](https://i.imgur.com/AwDC6hi.png)
